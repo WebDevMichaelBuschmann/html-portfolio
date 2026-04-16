@@ -1,0 +1,14 @@
+h2 {
+  color: green;
+}
+
+
+.red-text{color:red} /* class selector: for as many elements as I want */
+
+#blue{
+  color: blue; /* id selector for one element only*/
+}
+
+p[draggable="false"]{
+  color: red;
+}
